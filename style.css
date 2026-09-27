@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+ 
+.card-piloto {
+    width: 300px;
+    margin: auto;
+    padding: 25px;
+    border: 2px solid #eab308;
+    border-radius: 10px;
+}
+ 
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
